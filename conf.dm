@@ -1,0 +1,1 @@
+Nginx server configuration file.
